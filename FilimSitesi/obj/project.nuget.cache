@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "RXIL37OhXIs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\özcan\\source\\repos\\FilimSitesi\\FilimSitesi\\FilimSitesi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\özcan\\.nuget\\packages\\microsoft.web.webview2\\1.0.2365.46\\microsoft.web.webview2.1.0.2365.46.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "FilimSitesi, Microsoft.Web.WebView2 (>= 1.0.2364.36) öğesine bağlı ancak Microsoft.Web.WebView2 1.0.2364.36 bulunamadı. Bunun yerine Microsoft.Web.WebView2 1.0.2365.46 çözümlendi.",
+      "projectPath": "C:\\Users\\özcan\\source\\repos\\FilimSitesi\\FilimSitesi\\FilimSitesi.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\özcan\\source\\repos\\FilimSitesi\\FilimSitesi\\FilimSitesi.csproj",
+      "libraryId": "Microsoft.Web.WebView2",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    }
+  ]
+}

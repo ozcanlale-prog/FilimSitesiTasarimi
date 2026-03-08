@@ -1,0 +1,162 @@
+[
+  {
+    "PanelName": "panel1",
+    "Title": "Inception (2010)",
+    "Description": "Yönetmen: Christopher Nolan\nRüya içinde rüya...\nTür: Bilim Kurgu / Aksiyon",
+    "Cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=YoHD9XEInc0",
+    "PosterPath": "https://img.youtube.com/vi/YoHD9XEInc0/maxresdefault.jpg",
+    "Similar": ["panel16", "panel3"],
+    "Rating": 8.8
+  },
+  {
+    "PanelName": "panel2",
+    "Title": "The Matrix (1999)",
+    "Description": "Yönetmen: Wachowskis\nGerçeğin ötesinde bir dünya...\nTür: Bilim Kurgu / Aksiyon",
+    "Cast": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=vKQi3bBA1y8",
+    "PosterPath": "https://img.youtube.com/vi/vKQi3bBA1y8/maxresdefault.jpg",
+    "Similar": ["panel10", "panel16"],
+    "Rating": 8.7
+  },
+  {
+    "PanelName": "panel3",
+    "Title": "Interstellar (2014)",
+    "Description": "Yönetmen: Christopher Nolan\nUzay ve zamanın öyküsü...\nTür: Bilim Kurgu / Dram",
+    "Cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=zSWdZVtXT7E",
+    "PosterPath": "https://img.youtube.com/vi/zSWdZVtXT7E/maxresdefault.jpg",
+    "Similar": ["panel1", "panel16"],
+    "Rating": 8.6
+  },
+  {
+    "PanelName": "panel4",
+    "Title": "The Dark Knight (2008)",
+    "Description": "Yönetmen: Christopher Nolan\nBatman vs Joker...\nTür: Aksiyon / Suç",
+    "Cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=EXeTwQWrcwY",
+    "PosterPath": "https://img.youtube.com/vi/EXeTwQWrcwY/maxresdefault.jpg",
+    "Similar": ["panel11", "panel9"],
+    "Rating": 9.0
+  },
+  {
+    "PanelName": "panel5",
+    "Title": "Forrest Gump (1994)",
+    "Description": "Yönetmen: Robert Zemeckis\nBir adamın olağanüstü yaşamı...\nTür: Dram / Komedi",
+    "Cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=bLvqoHBptjg",
+    "PosterPath": "https://img.youtube.com/vi/bLvqoHBptjg/maxresdefault.jpg",
+    "Similar": ["panel6", "panel15"],
+    "Rating": 8.8
+  },
+  {
+    "PanelName": "panel6",
+    "Title": "The Shawshank Redemption (1994)",
+    "Description": "Yönetmen: Frank Darabont\nUmudun gücü...\nTür: Dram",
+    "Cast": ["Tim Robbins", "Morgan Freeman"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=6hB3S9bIaco",
+    "PosterPath": "https://img.youtube.com/vi/6hB3S9bIaco/maxresdefault.jpg",
+    "Similar": ["panel5", "panel9"],
+    "Rating": 9.3
+  },
+  {
+    "PanelName": "panel7",
+    "Title": "Pulp Fiction (1994)",
+    "Description": "Yönetmen: Quentin Tarantino\nBağlantılı suç hikayeleri...\nTür: Suç / Dram",
+    "Cast": ["John Travolta", "Uma Thurman", "Samuel L. Jackson"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=s7EdQ4FqbhY",
+    "PosterPath": "https://img.youtube.com/vi/s7EdQ4FqbhY/maxresdefault.jpg",
+    "Similar": ["panel4", "panel9"],
+    "Rating": 8.9
+  },
+  {
+    "PanelName": "panel8",
+    "Title": "Fight Club (1999)",
+    "Description": "Yönetmen: David Fincher\nKimlik ve kaos...\nTür: Dram / Gerilim",
+    "Cast": ["Brad Pitt", "Edward Norton"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=SUXWAEX2jlg",
+    "PosterPath": "https://img.youtube.com/vi/SUXWAEX2jlg/maxresdefault.jpg",
+    "Similar": ["panel7", "panel6"],
+    "Rating": 8.8
+  },
+  {
+    "PanelName": "panel9",
+    "Title": "The Godfather (1972)",
+    "Description": "Yönetmen: Francis Ford Coppola\nBir ailenin yükselişi...\nTür: Suç / Dram",
+    "Cast": ["Marlon Brando", "Al Pacino"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=sY1S34973zA",
+    "PosterPath": "https://img.youtube.com/vi/sY1S34973zA/maxresdefault.jpg",
+    "Similar": ["panel11", "panel4"],
+    "Rating": 9.2
+  },
+  {
+    "PanelName": "panel10",
+    "Title": "The Lord of the Rings (2001)",
+    "Description": "Yönetmen: Peter Jackson\nOrta Dünya macerası...\nTür: Fantastik / Macera",
+    "Cast": ["Elijah Wood", "Ian McKellen"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=V75dMMIW2B4",
+    "PosterPath": "https://img.youtube.com/vi/V75dMMIW2B4/maxresdefault.jpg",
+    "Similar": ["panel1", "panel16"],
+    "Rating": 8.8
+  },
+  {
+    "PanelName": "panel11",
+    "Title": "Star Wars: A New Hope (1977)",
+    "Description": "Yönetmen: George Lucas\nGalaktik bir macera...\nTür: Bilim Kurgu / Macera",
+    "Cast": ["Mark Hamill", "Harrison Ford"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=vZ734NWnAHA",
+    "PosterPath": "https://img.youtube.com/vi/vZ734NWnAHA/maxresdefault.jpg",
+    "Similar": ["panel10", "panel9"],
+    "Rating": 8.6
+  },
+  {
+    "PanelName": "panel12",
+    "Title": "The Silence of the Lambs (1991)",
+    "Description": "Yönetmen: Jonathan Demme\nGerilim dolu bir kedi fare oyunu...\nTür: Gerilim / Suç",
+    "Cast": ["Jodie Foster", "Anthony Hopkins"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=W6Mm8Sbe__o",
+    "PosterPath": "https://img.youtube.com/vi/W6Mm8Sbe__o/maxresdefault.jpg",
+    "Similar": ["panel6", "panel9"],
+    "Rating": 8.6
+  },
+  {
+    "PanelName": "panel13",
+    "Title": "Gladiator (2000)",
+    "Description": "Yönetmen: Ridley Scott\nİntikam ve onur...\nTür: Aksiyon / Dram",
+    "Cast": ["Russell Crowe", "Joaquin Phoenix"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=owK1qxDselE",
+    "PosterPath": "https://img.youtube.com/vi/owK1qxDselE/maxresdefault.jpg",
+    "Similar": ["panel4", "panel16"],
+    "Rating": 8.5
+  },
+  {
+    "PanelName": "panel14",
+    "Title": "Titanic (1997)",
+    "Description": "Yönetmen: James Cameron\nTrajik bir aşk hikayesi...\nTür: Dram / Romantik",
+    "Cast": ["Leonardo DiCaprio", "Kate Winslet"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=kVrqfYjkTdQ",
+    "PosterPath": "https://img.youtube.com/vi/kVrqfYjkTdQ/maxresdefault.jpg",
+    "Similar": ["panel5", "panel15"],
+    "Rating": 7.8
+  },
+  {
+    "PanelName": "panel15",
+    "Title": "The Truman Show (1998)",
+    "Description": "Yönetmen: Peter Weir\nGerçek ve yapay arasındaki sınır...\nTür: Dram / Komedi",
+    "Cast": ["Jim Carrey", "Laura Linney"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=4g6wP0KdK4k",
+    "PosterPath": "https://img.youtube.com/vi/4g6wP0KdK4k/maxresdefault.jpg",
+    "Similar": ["panel3", "panel1"],
+    "Rating": 8.1
+  },
+  {
+    "PanelName": "panel16",
+    "Title": "The Prestige (2006)",
+    "Description": "Yönetmen: Christopher Nolan\nSihir ve takıntı...\nTür: Dram / Gizem",
+    "Cast": ["Christian Bale", "Hugh Jackman"],
+    "TrailerUrl": "https://www.youtube.com/watch?v=o4gHCmTQDVI",
+    "PosterPath": "https://img.youtube.com/vi/o4gHCmTQDVI/maxresdefault.jpg",
+    "Similar": ["panel1", "panel3"],
+    "Rating": 8.5
+  }
+]
